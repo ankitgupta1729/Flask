@@ -1,0 +1,7 @@
+1. open cmd
+2. run: psql -h localhost -d database_name -U username -p portno
+3. enter password
+
+4. run: \dt  (to see tables)
+
+5. run: select * from tablename

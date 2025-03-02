@@ -1,0 +1,4 @@
+1. Setup: https://www.youtube.com/watch?v=HTx18uyyHw8&ab_channel=k0nze
+2. Run in vscode terminal: pyenv exec python -m venv .venv
+3. Run in vscode terminal: .\.venv\Scripts\activate 
+ 

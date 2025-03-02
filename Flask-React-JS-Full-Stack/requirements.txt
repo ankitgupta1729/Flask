@@ -1,0 +1,6 @@
+flask
+flask-SQLAlchemy
+mysqlclient
+flask-marshmallow
+marshmallow-sqlalchemy
+flask-Cors
